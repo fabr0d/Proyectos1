@@ -4,4 +4,7 @@
 
 ### Dataset
 
-Ambos metodos utilizan Shapenet : http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
+Ambos metodos utilizan modelos de Shapenet : 
+
+* Imagenes renderizadas: http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
+* Modelos voxelizados: http://cvgl.stanford.edu/data2/ShapeNetVox32.tgz
