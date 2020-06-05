@@ -28,7 +28,7 @@ Pix2Vox tambien utiliza imagenes y modelos voxelizados de Pix3D : http://pix3d.c
 
 #### Pix2Vox
 
-1. python 
+1. python 3
 2. argparse: facilita la escritura de interfaces de línea de comando fáciles de usar, genera automáticamente mensajes de ayuda y de uso y emite errores cuando los usuarios dan al programa argumentos no válidos.
 3. easydict
 4. matplotlib: libreria de plotting para python
